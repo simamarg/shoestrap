@@ -69,6 +69,16 @@
     clear: both;
 }
 
+.navbar {
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
+
+.nav-bar div {
+    display: inline-block;
+}
+
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
