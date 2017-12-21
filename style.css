@@ -2,3 +2,14 @@ div {
   height: 50px;
   border: 1px solid red;
 }
+
+nav {
+  background-color: darkgray;
+}
+
+nav li a {
+  color: black;
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+  letter-spacing: 0.1em;
+}
