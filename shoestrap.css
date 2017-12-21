@@ -78,14 +78,14 @@
     text-align: center;
 }
 
-.navbar li {
+.navbar ul, .navbar li {
     display: inline-block;
 }
+
 
 .navbar li a {
     line-height: 50px;
     text-decoration: none;
-    padding: 0 30px;
 }
 
 * {
